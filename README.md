@@ -4,8 +4,8 @@ Simple python script to use generate list of random numbers
 
 ## Usage
     
-    $ python ramdom_numbers_generator.py --help                                                                                         
-    usage: random_number_generator.py [-h] <initial> <end> <total>
+    $ python random_numbers_generator.py --help                                                                                         
+    usage: random_numbers_generator.py [-h] <initial> <end> <total>
 
     script to get sorted numbers
 
