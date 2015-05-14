@@ -1,6 +1,6 @@
 # Confluence.py
 
-Simple python script to use generate list of random numbers 
+Simple python script to use to generate list of random numbers for gambling.
 
 ## Usage
     
