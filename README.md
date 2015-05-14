@@ -1,4 +1,4 @@
-# Confluence.py
+# Random_numbers_generator.py
 
 Simple python script to use to generate list of random numbers for gambling.
 
